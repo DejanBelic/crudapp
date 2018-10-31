@@ -1,15 +1,15 @@
 {
   "main.css": "/crudapp/static/css/main.ea141104.chunk.css",
-  "main.js": "/crudapp/static/js/main.4e262e51.chunk.js",
-  "main.js.map": "/crudapp/static/js/main.4e262e51.chunk.js.map",
+  "main.js": "/crudapp/static/js/main.8ec47e30.chunk.js",
+  "main.js.map": "/crudapp/static/js/main.8ec47e30.chunk.js.map",
   "static/css/1.9506c234.chunk.css": "/crudapp/static/css/1.9506c234.chunk.css",
   "static/js/1.ebdc049b.chunk.js": "/crudapp/static/js/1.ebdc049b.chunk.js",
   "static/js/1.ebdc049b.chunk.js.map": "/crudapp/static/js/1.ebdc049b.chunk.js.map",
   "runtime~main.js": "/crudapp/static/js/runtime~main.2da0a526.js",
   "runtime~main.js.map": "/crudapp/static/js/runtime~main.2da0a526.js.map",
-  "static/css/1.9506c234.chunk.css.map": "/crudapp/static/css/1.9506c234.chunk.css.map",
   "static/css/main.ea141104.chunk.css.map": "/crudapp/static/css/main.ea141104.chunk.css.map",
+  "static/css/1.9506c234.chunk.css.map": "/crudapp/static/css/1.9506c234.chunk.css.map",
   "index.html": "/crudapp/index.html",
-  "precache-manifest.2461c94f211540fcb8f780a6f36cc554.js": "/crudapp/precache-manifest.2461c94f211540fcb8f780a6f36cc554.js",
+  "precache-manifest.dcfeb3b8d5945365d4aec1be80dfa66f.js": "/crudapp/precache-manifest.dcfeb3b8d5945365d4aec1be80dfa66f.js",
   "service-worker.js": "/crudapp/service-worker.js"
 }
